@@ -160,7 +160,7 @@ function Index() {
         </div>
         <div className="container mx-auto px-6">
         {/* Header */}
-        <h2 className="text-3xl font-bold text-center mb-6">
+        <h2 className="text-3xl font-bold text-black text-center mb-4">
           Better Ingredients
         </h2>
         <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">
